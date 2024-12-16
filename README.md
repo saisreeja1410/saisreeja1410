@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saisreeja1410&label=Profile%20views&color=0e75b6&style=flat" alt="saisreeja1410" /> </p>
 
-- 🔭 I’m currently working on **Enhanced Solar Power forecasting**
+- 🔭 I’m currently working on **LLM Based Projects**
 
 - 🌱 I’m currently learning **AIML and Deep Learning**
 
