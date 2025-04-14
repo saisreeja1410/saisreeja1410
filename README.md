@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Sreeja</h1>
 <h3 align="center">A passionate AIML-based developer from India</h3>
 
-- 🔭 I’m currently working on **Speech-to-Speech Streaming in 12 Languages project**
+- 🔭 I’m currently working on **Cache Augmented Multimodal Sentiment Detection using Advanced Cahce Embeddings**
 
 - 🌱 I’m currently learning **LangChain, Deep Learning, NLP and many more AIML related tools**
 
